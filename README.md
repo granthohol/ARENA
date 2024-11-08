@@ -1,8 +1,5 @@
-This GitHub repo hosts the exercises and Streamlit pages for the ARENA 3.0 program.
-
-You can find a summary of each of the chapters below. For more detailed information (including the different ways you can access the exercises), click on the links in the chapter headings.
-
-Additionally, see [this Notion page](https://arena-resources.notion.site/) for a guide to the virtual study materials available.
+### My Use Case
+I am using this github repo to upload my progress as I work through the ARENA ML Engineering Curriculum. Most of the code I have actually written can be found in the "exercises" tab of each chapter. An overview of the curriculum (the original README) can be viewed below. 
 
 # [Chapter 0: Fundamentals](https://arena3-chapter0-fundamentals.streamlit.app/)
 
